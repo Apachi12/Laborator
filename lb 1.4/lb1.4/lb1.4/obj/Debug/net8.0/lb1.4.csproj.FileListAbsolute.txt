@@ -1,0 +1,14 @@
+D:\c#\lb1\1.4\lb1.4\lb1.4\bin\Debug\net8.0\lb1.4.exe
+D:\c#\lb1\1.4\lb1.4\lb1.4\bin\Debug\net8.0\lb1.4.deps.json
+D:\c#\lb1\1.4\lb1.4\lb1.4\bin\Debug\net8.0\lb1.4.runtimeconfig.json
+D:\c#\lb1\1.4\lb1.4\lb1.4\bin\Debug\net8.0\lb1.4.dll
+D:\c#\lb1\1.4\lb1.4\lb1.4\bin\Debug\net8.0\lb1.4.pdb
+D:\c#\lb1\1.4\lb1.4\lb1.4\obj\Debug\net8.0\lb1.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\lb1\1.4\lb1.4\lb1.4\obj\Debug\net8.0\lb1.4.AssemblyInfoInputs.cache
+D:\c#\lb1\1.4\lb1.4\lb1.4\obj\Debug\net8.0\lb1.4.AssemblyInfo.cs
+D:\c#\lb1\1.4\lb1.4\lb1.4\obj\Debug\net8.0\lb1.4.csproj.CoreCompileInputs.cache
+D:\c#\lb1\1.4\lb1.4\lb1.4\obj\Debug\net8.0\lb1.4.dll
+D:\c#\lb1\1.4\lb1.4\lb1.4\obj\Debug\net8.0\refint\lb1.4.dll
+D:\c#\lb1\1.4\lb1.4\lb1.4\obj\Debug\net8.0\lb1.4.pdb
+D:\c#\lb1\1.4\lb1.4\lb1.4\obj\Debug\net8.0\lb1.4.genruntimeconfig.cache
+D:\c#\lb1\1.4\lb1.4\lb1.4\obj\Debug\net8.0\ref\lb1.4.dll
